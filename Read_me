@@ -1,0 +1,8 @@
+In  this project we are going to classify the image.I am using the Intel_image dataset which contain 6 different classes-
+1:  Bulding.
+2:  Forest.
+3:  Glacier.
+4:  Mountain.
+5:  Sea.
+6:  Street.
+here we use the Mobile_net a pretrained model. And trained this model on Intel_image data to get result.
